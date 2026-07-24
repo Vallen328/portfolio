@@ -22,7 +22,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://your-domain.com"), // Change after deployment
+  metadataBase: new URL("https://vallendsouza.vercel.app"), 
 
   title: {
     default: "Vallen Dsouza | Software Engineer",
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
     description:
     "Software Engineer passionate about building scalable backend systems, AI-powered products, and developer tools that solve real-world problems.",
 
-    url: "https://your-domain.com",
+    url: "https://vallendsouza.vercel.app",
 
     siteName: "Vallen Dsouza",
 
