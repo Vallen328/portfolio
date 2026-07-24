@@ -1,0 +1,244 @@
+{
+  "about": {
+    "intro": "I'm a **Software Engineer** passionate about building **scalable backend systems**, **AI-powered applications**, and **modern software products**.",
+    "description": "Building **scalable backend systems**, **AI-powered applications**, and **modern full-stack products** with a focus on clean architecture, performance and creating software that is **simple**, **reliable** and **impactful**.",
+    "full": "Hi, I'm **Vallen Dsouza**, a **Software Engineer** and Computer Engineering graduate passionate about building **scalable software systems**, **AI-powered applications**, and products that solve real-world problems.\n\nMy journey into software development began during my Computer Engineering degree, where I was first introduced to programming. What started as curiosity quickly evolved into a passion for designing and building software that makes a meaningful impact. In **2023**, I began exploring full-stack web development with the MERN stack, laying the foundation for the engineering journey I'm on today.\n\nSince then, I've built projects ranging from AI-powered SaaS platforms and developer tools to intelligent automation systems. Each project has strengthened my understanding of software architecture, clean code, scalability, and the complete product development lifecycle—from transforming ideas into production-ready applications.\n\nThrough internships in software engineering, machine learning, and data analysis, I've gained hands-on experience building production-ready software, collaborating with cross-functional teams, and understanding how reliable systems are designed, tested, and deployed in real-world environments.\n\nAlongside software development, I have a strong passion for problem solving. I actively practice **Data Structures & Algorithms** in Java, have solved **900+ LeetCode problems**, earned the **LeetCode Knight** badge, and continue sharpening my skills through **Codeforces** and competitive programming. These experiences have strengthened my analytical thinking and taught me how to approach complex engineering challenges with confidence.\n\nWhat excites me most is backend engineering—designing scalable architectures, building reliable APIs, optimizing databases, and integrating AI into products that people genuinely enjoy using. I believe great software isn't just about writing code; it's about building systems that remain **reliable**, **maintainable**, and **adaptable** as they evolve.\n\nBeyond engineering, I enjoy exploring emerging technologies, participating in hackathons, experimenting with ambitious ideas, and continuously challenging myself through new projects. As a **2× Hackathon Winner**, I thrive in fast-paced environments where collaboration, creativity, and rapid problem solving come together to build meaningful solutions. Every experience teaches me something new, and that commitment to continuous learning is what drives me to grow as an engineer every day."
+  },
+  "manifesto": [
+    "ENGINEERING OVER HYPE",
+    "BUILD FOR SCALE",
+    "SOLVE REAL PROBLEMS",
+    "KEEP IT SIMPLE",
+    "AI WITH PURPOSE",
+    "NEVER STOP LEARNING"
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Velora AI",
+      "category": "AI SaaS Platform",
+      "year": "2026",
+      "description": "Velora AI is a multi-tenant AI customer support platform that enables businesses to deploy intelligent assistants capable of handling customer conversations with real-time AI-human escalation. Built with a scalable architecture using Next.js, Convex, Clerk, and AI integrations, it delivers secure authentication, contextual conversations, and production-ready customer support workflows.",
+      "image": "/projects/Velora_Portfolio.png",
+      "demo": "https://velora-ai-web-peach.vercel.app/",
+      "repo": "https://github.com/Vallen328/velora-ai",
+      "stack": [
+        "Next.js",
+        "React",
+        "Convex",
+        "Clerk",
+        "TypeScript",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Hirely",
+      "category": "AI Career Platform",
+      "year": "2026",
+      "description": "Hirely is an AI-powered interview preparation platform that helps students improve their placement readiness through resume analysis, job-specific interview generation, AI feedback, and personalized learning. It combines Retrieval-Augmented Generation (RAG), vector search, and LLMs to deliver contextual interview experiences tailored to each candidate.",
+      "image": "/projects/hirely.png",
+      "demo": "https://major-project-hirely.vercel.app/",
+      "stack": [
+        "Next.js",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "LangChain",
+        "AI"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "PostBoy",
+      "category": "Developer Tool",
+      "year": "2026",
+      "description": "PostBoy is a modern API testing and collaboration platform designed for developers to test, organize, and share API workflows efficiently. It features AI-powered request generation, automatic API documentation, team workspaces, real-time collaboration, authentication, and PostgreSQL-backed data management, providing an end-to-end experience for modern API development.",
+      "image": "/projects/postboy.png",
+      "repo": "https://github.com/vallen328/postboy-project",
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Prisma",
+        "Better Auth",
+        "Gemini AI"
+      ]
+    }
+  ],
+  "journey": [
+    {
+      "year": "2022",
+      "title": "First Principles & The Algorithmic Spark",
+      "description": "Began my Computer Engineering degree and discovered the world of software. Focused on foundational logic, memory mechanics, and object-oriented programming in Java.",
+      "highlights": [
+        "Enrolled in Computer Engineering",
+        "Mastered Java Core",
+        "Discovered Algorithmic Problem Solving"
+      ],
+      "tech": ["C", "Java", "Data Structures Basics"]
+    },
+    {
+      "year": "2023",
+      "title": "Full-Stack Craftsmanship & Community Integration",
+      "description": "Shifted from command-line tools to modern web architecture. Built production-style full-stack applications and took on my first technical leadership role organizing developer documentation.",
+      "highlights": [
+        "Mastered MERN Stack Architecture",
+        "Built End-to-End Full-Stack Applications (Airbnb Clone)",
+        "Appointed Documentation Head at Mozilla Campus Club CRCE"
+      ],
+      "tech": ["React", "Node.js", "Express", "MongoDB", "JavaScript", "REST APIs"],
+      "achievements": [
+        {
+          "icon": "📝",
+          "label": "Documentation Head — Mozilla Campus Club CRCE"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "title": "Algorithmic Rigor & Applied Intelligence",
+      "description": "Dived deep into Data Structures & Algorithms with Java, initiated a daily Competitive Programming regimen, and stepped into applied AI & data engineering through dual industry internships.",
+      "highlights": [
+        "Initiated Daily LeetCode Practice (300+ Problems Solved)",
+        "Built ML & Data Processing Pipelines",
+        "Promoted to Event Head at Mozilla Campus Club CRCE"
+      ],
+      "experiences": [
+        {
+          "role": "Data Analysis Intern",
+          "company": "Aider Ventures",
+          "period": "Jul 2024 – May 2025",
+          "tags": ["Data Analytics", "Streamlit", "Python", "Data Pipelines"],
+          "workDetails": [
+            "Automated monthly profit analysis for Coco’s Restaurant, reducing reporting time by 40% and enabling faster operational decisions.",
+            "Analyzed large datasets to uncover cost-saving opportunities and operational inefficiencies for multiple clients.",
+            "Developed a sales-to-purchase ratio system for 300+ retail units at Galaxy Enterprises to surface actionable cost controls."
+          ]
+        },
+        {
+          "role": "Machine Learning Intern",
+          "company": "Nienna Labs",
+          "period": "Jul 2024 – May 2025",
+          "tags": ["OCR Systems", "Feature Extraction", "Machine Learning"],
+          "workDetails": [
+            "Researched and evaluated emerging AI models and automation tools for practical real-world applications.",
+            "Built a hybrid OCR and PyMuPDF workflow to extract and analyze financial data from PDF documents.",
+            "Designed an interactive Streamlit interface with voice-enabled queries, making complex data insights accessible to non-technical users."
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "icon": "🎯",
+          "label": "Event Head — Mozilla Campus Club CRCE"
+        }
+      ],
+      "tech": ["Java", "Python", "Streamlit", "OpenCV", "Scikit-Learn"]
+    },
+    {
+      "year": "2025",
+      "title": "Enterprise GenAI & High-Impact Leadership",
+      "description": "Engineered production GenAI systems for government-scale projects, won consecutive hackathons under tight pressure, and assumed top leadership as Club Captain.",
+      "highlights": [
+        "Engineered NL-to-SQL & RAG Evaluation Pipelines for Government AI Solutions",
+        "Won 2 Competitive Hackathons Back-to-Back",
+        "Appointed Captain (President) of Mozilla Campus Club CRCE",
+        "Built & Launched PostBoy (AI API Client) & Hirely"
+      ],
+      "experiences": [
+        {
+          "role": "Software Developer Intern",
+          "company": "Pelorus Technologies",
+          "period": "Jan 2025 – May 2025",
+          "tags": ["Government AI Project", "LangChain", "NL-to-SQL Engine", "RAGAS Evaluation", "Production Pipelines"],
+          "workDetails": [
+            "Contributed to a government cyber-intelligence project for multilingual audio and text processing.",
+            "Built and evaluated an AI pipeline for speech transcription, translation, and noise handling across multiple languages.",
+            "Benchmarked large language models with structured RAGAS evaluation metrics to compare translation quality and robustness.",
+            "Developed a Talk-to-Database chatbot using LangChain and SQL so non-technical stakeholders could query project data in natural language.",
+            "Converted natural-language requests into executable database queries and concise, human-readable insights for managers."
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "icon": "🏆",
+          "label": "1st Place — National Level Hackathon",
+          "date": "12 January 2025"
+        },
+        {
+          "icon": "🏆",
+          "label": "1st Runner Up — State Level Hackathon",
+          "date": "16 March 2025"
+        },
+        {
+          "icon": "👑",
+          "label": "Captain (Club Lead) — Mozilla Campus Club CRCE"
+        },
+        {
+          "icon": "🚀",
+          "label": "Released PostBoy (API Testing Platform) & Hirely"
+        }
+      ],
+      "tech": ["LangChain", "RAGAS", "PostgreSQL", "Next.js", "Python", "Vector DBs", "Prisma", "Better Auth"]
+    },
+    {
+      "year": "2026",
+      "title": "Enterprise Scale, Flagship DevTools & Competitive Mastery",
+      "description": "Operating at scale across enterprise developer tooling, building multi-tenant SaaS products, shipping flagship developer platforms, and achieving top-tier competitive programming milestones.",
+      "highlights": [
+        "Earned LeetCode Knight Rank (Top 5% Globally)",
+        "Maintained a 600+ Day Continuous Coding Streak with 900+ Problems Solved",
+        "Built & Released Velora AI Platform",
+        "Customer Engineering & Root Cause Analysis at BrowserStack Scale"
+      ],
+      "experiences": [
+        {
+          "role": "SDE — Customer Engineer Intern",
+          "company": "BrowserStack",
+          "period": "2026",
+          "tags": ["Root Cause Analysis", "Enterprise Infrastructure", "AI Testing Automation", "Accessibility", "CI/CD Workflows"],
+          "workDetails": [
+            "Investigated complex customer issues across web, mobile, and automation testing by analyzing logs, network traces, crash reports, and automation frameworks.",
+            "Performed root cause analysis across Playwright, Appium, WebdriverIO, Percy, CI/CD pipelines, and mobile testing workflows.",
+            "Ran customer-facing technical demos and enablement sessions for AI-powered testing, low-code automation, accessibility, and test management.",
+            "Partnered with engineering and support to reproduce issues, validate fixes, and provide actionable recommendations.",
+            "Supported enterprise integrations including CI/CD workflows, identity provisioning, SSO, and test-management integrations.",
+            "Created internal documentation, demo assets, and training material for product capabilities and testing best practices."
+          ]
+        },
+        {
+          "role": "Full Stack Intern",
+          "company": "Celeris Ventures",
+          "period": "2026",
+          "tags": ["Tender Management Platform", "Memry AI", "FlowGenix", "Contraclave"],
+          "workDetails": [
+            "Developed a full-stack Tender Management Platform with Node.js, Express.js, MongoDB, React, and Redux to digitize pre-tender and tender workflows.",
+            "Designed and implemented 8+ backend modules, REST APIs, and MongoDB schemas for complex multi-step data flows.",
+            "Built Express routes with JWT-based authentication and authorization to secure workflows and manage access.",
+            "Debugged state-synchronization and ID-propagation issues across distributed modules, improving reliability and maintainability.",
+            "Enhanced internal products and marketing experiences including Memry.AI, the Celeris website, FlowGenix, and Contraclave.",
+            "Collaborated across teams to design, develop, and ship production-ready features for internal and customer-facing platforms."
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "icon": "🏅",
+          "label": "LeetCode Knight Badge (Top 5% Globally)"
+        },
+        {
+          "icon": "🔥",
+          "label": "600+ Day Continuous Coding Streak (900+ Problems)"
+        },
+        {
+          "icon": "🚀",
+          "label": "Released Velora AI Platform"
+        }
+      ],
+      "tech": ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Docker", "Better Auth"],
+      "funNote": "Earned the official LeetCode T-shirt swag through 1.5+ years of relentless daily problem solving, monthly contest discipline, and streak consistency."
+    }
+  ]
+}

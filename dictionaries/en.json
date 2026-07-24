@@ -1,0 +1,49 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "stack": "Stack",
+        "leetcode": "LeetCode",
+        "projects": "Projects",
+        "roadmap": "Journey",
+        "contact": "Contact",
+        "resume": "Resume"
+    },
+    "title": {
+        "about": "About",
+        "stack": "Technical Expertise",
+        "leetcode": "Problem Solving",
+        "projects": "Projects",
+        "roadmap": "Engineering Journey",
+        "contact": "Contact"
+    },
+    "scrollDown": "Scroll",
+    "contactMe": "Contact Me",
+    "exploreProjects": "Explore Projects",
+    "readFullVersion": "Read Full Version",
+    "frontendStack": "Frontend Technologies",
+    "backendStack": "Backend Technologies",
+    "databaseStack": "Databases & ORMs",
+    "aiStack": "AI & LLMs",
+    "toolsStack": "Tools & Infrastructure",
+    "leetcodeDescription": "Daily algorithmic practice that sharpens the reasoning, precision, and persistence I bring to every engineering problem.",
+    "projectsIntro": "A collection of *experiments*, *products*, and *digital artifacts* forged in the **void**.",
+    "projectsScrollText": "Scroll to explore",
+    "projectsEndText": "View All Projects",
+    "roadmapDescription": "From curiosity to building production software.",
+    "contactIntroText": "Whether we start fresh to bring a project to life or take an existing system further.",
+    "sendEmail": "Send an Email",
+    "directLine": "Direct Line",
+    "allRightsReserved": "All rights reserved.",
+    "contactModalDescription": "Send me a message and I'll get back to you as soon as possible.",
+    "projectDetails": "Details about",
+    "aboutProject": "About the Project",
+    "technologies": "Technologies",
+    "liveDemo": "Live Demo",
+    "sourceCode": "Source Code",
+    "notFound": {
+        "title": "Page Not Found",
+        "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+        "goHome": "Back to Home"
+    }
+}
