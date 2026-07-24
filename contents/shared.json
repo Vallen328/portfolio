@@ -224,7 +224,7 @@
       },
       {
         "name": "Docker",
-        "icon": "/stack/docker.svg",
+        "icon": "/stack/Docker.svg",
         "featured": true
       },
       {
@@ -233,7 +233,7 @@
       },
       {
         "name": "Postman",
-        "icon": "/stack/postman.svg"
+        "icon": "/stack/Postman.svg"
       },
       {
         "name": "Streamlit",
